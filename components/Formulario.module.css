@@ -1,0 +1,29 @@
+img{
+    width: 200px;
+    height: 200px;
+}
+
+body{
+    background-image: url("https://www.lavanguardia.com/andro4all/hero/2019/02/Fondos-de-pantalla-de-Pokemon.jpg?width=1200&aspect_ratio=16:9"); 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    background-color: #2980b9;
+    color: white;}
+.container{
+    font-weight: bold;
+    color: white;}
+.pokemon{
+    background-color: rgba(0, 0, 0, 0.5);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    color: white;
+    width: 500px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;}
+
+
+
